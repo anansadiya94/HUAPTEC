@@ -382,3 +382,30 @@ a:focus, a:hover, a:active {
   background-color: #1a252f;
   border-color: #1a252f;
 }
+
+.btn-circle {
+  width: 90px;
+  height: 90px;
+  text-align: center;
+  padding: 6px 0;
+  line-height: 1.428571429;
+  border-radius: 15px;
+}
+.btn-circle.btn-lg {
+  width: 90px;
+  height: 90px;
+  padding: 10px 16px;
+  line-height: 1.33;
+  border-radius: 25px;
+}
+.btn-circle.btn-xl {
+  width: 180px;
+  height: 180px;
+  padding: 10px 16px;
+  line-height: 1.33;
+  border-radius: 50%;
+}
+
+.a-normal {
+  color: #2C3E50
+}

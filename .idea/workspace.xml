@@ -12,22 +12,27 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="156" column="37" selection-start-line="156" selection-start-column="37" selection-end-line="156" selection-end-column="37" />
+            <state relative-caret-position="284">
+              <caret line="183" column="12" lean-forward="true" selection-start-line="183" selection-start-column="12" selection-end-line="183" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/freelancer.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="383" column="1" selection-start-line="383" selection-start-column="1" selection-end-line="383" selection-end-column="1" />
+            <state relative-caret-position="413">
+              <caret line="399" column="1" lean-forward="true" selection-start-line="399" selection-start-column="1" selection-end-line="399" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -46,6 +51,9 @@
       <find>white</find>
       <find>bg-primary</find>
       <find>center</find>
+      <find>star</find>
+      <find>.a</find>
+      <find>a.nav-link.activ</find>
     </findStrings>
     <replaceStrings>
       <replace>#000000</replace>
@@ -59,26 +67,23 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/freelancer.min.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/freelancer.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="160" />
-    <option name="y" value="114" />
-    <option name="width" value="960" />
-    <option name="height" value="548" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -95,6 +100,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -131,19 +137,21 @@
       <updated>1557245331098</updated>
       <workItem from="1557245332748" duration="55000" />
       <workItem from="1557325223375" duration="5736000" />
-      <workItem from="1557504926646" duration="2366000" />
+      <workItem from="1557504926646" duration="2431000" />
+      <workItem from="1558377502828" duration="9000" />
+      <workItem from="1558377541505" duration="2270000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8157000" />
+    <option name="totallyTimeSpent" value="10501000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49734512" visible="true" weight="0.25686592" />
-      <window_info id="Structure" order="1" sideWeight="0.50265485" side_tool="true" visible="true" weight="0.25686592" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49452055" visible="true" weight="0.27382874" />
+      <window_info id="Structure" order="1" sideWeight="0.50547945" side_tool="true" visible="true" weight="0.27382874" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info id="npm" order="3" side_tool="true" />
       <window_info id="Favorites" order="4" side_tool="true" />
@@ -157,7 +165,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" visible="true" weight="0.2260274" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.2260274" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -183,17 +191,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/freelancer.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="156" column="37" selection-start-line="156" selection-start-column="37" selection-end-line="156" selection-end-column="37" />
+        <state relative-caret-position="413">
+          <caret line="399" column="1" lean-forward="true" selection-start-line="399" selection-start-column="1" selection-end-line="399" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/freelancer.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="383" column="1" selection-start-line="383" selection-start-column="1" selection-end-line="383" selection-end-column="1" />
+        <state relative-caret-position="284">
+          <caret line="183" column="12" lean-forward="true" selection-start-line="183" selection-start-column="12" selection-end-line="183" selection-end-column="12" />
         </state>
       </provider>
     </entry>
