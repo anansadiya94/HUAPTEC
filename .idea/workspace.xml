@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a860a033-d2bc-4c77-a50b-a22c19da25c4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/freelancer.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/freelancer.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +21,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="63" column="10" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="10" />
+            <state relative-caret-position="352">
+              <caret line="202" column="34" lean-forward="true" selection-start-line="202" selection-start-column="34" selection-end-line="202" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -32,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+            <state relative-caret-position="233">
+              <caret line="328" column="19" selection-start-line="328" selection-start-column="19" selection-end-line="328" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -62,6 +60,11 @@
       <find>navba</find>
       <find>padding</find>
       <find>padding: 6rem 0;</find>
+      <find>6rem</find>
+      <find>3rem</find>
+      <find>a</find>
+      <find>&lt;a</find>
+      <find>5rem</find>
     </findStrings>
     <replaceStrings>
       <replace>#000000</replace>
@@ -149,12 +152,12 @@
       <workItem from="1557504926646" duration="2431000" />
       <workItem from="1558377502828" duration="9000" />
       <workItem from="1558377541505" duration="2321000" />
-      <workItem from="1558707820317" duration="2637000" />
+      <workItem from="1558707820317" duration="3363000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13189000" />
+    <option name="totallyTimeSpent" value="13915000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -203,15 +206,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="63" column="10" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="10" />
+        <state relative-caret-position="352">
+          <caret line="202" column="34" lean-forward="true" selection-start-line="202" selection-start-column="34" selection-end-line="202" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+        <state relative-caret-position="233">
+          <caret line="328" column="19" selection-start-line="328" selection-start-column="19" selection-end-line="328" selection-end-column="19" />
         </state>
       </provider>
     </entry>
